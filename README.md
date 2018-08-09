@@ -22,4 +22,4 @@ Thank you!
 
 # This project currently only has the "third-person blueprint template" in it. This will be the base for the game itself.
 
-## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/). [Rest](https://www.unrealengine.com/marketplace/battle-royale-zone) [in](https://www.unrealengine.com/marketplace/battle-royale-project-for-dedicated-servers) [Kill](https://www.unrealengine.com/marketplace/fps-battle-royale-template).
+## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/). [Rest](https://www.unrealengine.com/marketplace/battle-royale-template-inventory-minimap) [in](https://www.unrealengine.com/marketplace/battle-royale-project-for-dedicated-servers) [Kill](https://www.unrealengine.com/marketplace/fps-battle-royale-template).
