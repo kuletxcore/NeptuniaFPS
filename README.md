@@ -9,7 +9,7 @@ A Battle Royale game based on the Neptunia Series made in UE4.
 2. Fork this project
 3. Clone your copy of the project to your desired directory (using the Desktop app of choice)
 4. Follow the instructions of this video: https://youtube.com/watch?v=v-DWH5JQiDo (Disable initialization of .gitattributes and .gitignore, for I already have a working one in this repo.)
-5. Don't forget to push to "Source Control" after saving and push your changes to your remote via your chosen desktop app!
+5. Don't forget to submit to "Source Control" after saving and push your changes to your remote via your chosen desktop app!
 
 (This project uses the 4.20 build.)
 
