@@ -23,3 +23,8 @@ Thank you!
 # This project currently only has the "third-person blueprint template" in it. This will be the base for the game itself.
 
 ## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/). [Rest](https://www.unrealengine.com/marketplace/battle-royale-template-inventory-minimap) [in](https://www.unrealengine.com/marketplace/battle-royale-project-for-dedicated-servers) [Kill](https://www.unrealengine.com/marketplace/fps-battle-royale-template).
+
+# The creator of this repo didn't even know about Git-LFS' storange and bandwidth being metered.
+Consider donating via [streamlabs](https://streamlabs.com/kuletxcorexddd), [ko-fi](http://ko-fi.com/kuletxcore) or [paypal](http://paypal.me/KuletXCore) so the project can live, and who knows? Maybe in time, they can afford the Battle Royale template that's linked above with enough money?
+
+You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) if you want to support him monthly!
