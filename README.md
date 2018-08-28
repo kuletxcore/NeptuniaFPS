@@ -25,6 +25,8 @@ Thank you!
 ## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/). [Rest](https://www.unrealengine.com/marketplace/battle-royale-template-inventory-minimap) [in](https://www.unrealengine.com/marketplace/battle-royale-project-for-dedicated-servers) [Kill](https://www.unrealengine.com/marketplace/fps-battle-royale-template).
 
 # The creator of this repo didn't even know about Git-LFS' storage and bandwidth being metered, and *Git-LFS is disabled until further notice.*
+![GitLFS Disabled](https://user-images.githubusercontent.com/4536676/44709243-b79ed680-aadb-11e8-8d4d-8b09ece812c1.png)
+
 Consider donating via [streamlabs](https://streamlabs.com/kuletxcorexddd), [ko-fi](http://ko-fi.com/kuletxcore) or [paypal](http://paypal.me/KuletXCore) so the project can live, and who knows? Maybe in time, they can afford the Battle Royale template that's linked above with enough money!
 
 You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) if you want to support him monthly!
