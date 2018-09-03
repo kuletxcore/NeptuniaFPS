@@ -28,6 +28,6 @@ Thank you!
 # The creator of this repo didn't even know about Git-LFS' storage and bandwidth being metered, and *Git-LFS is disabled until further notice.*
 ![GitLFS Disabled](https://user-images.githubusercontent.com/4536676/44709243-b79ed680-aadb-11e8-8d4d-8b09ece812c1.png)
 
-Consider donating via [streamlabs](https://streamlabs.com/kuletxcorexddd), [ko-fi](http://ko-fi.com/kuletxcore) or [paypal](http://paypal.me/KuletXCore) so the project can live, and who knows? Maybe in time, they can afford the Battle Royale template that's linked above with enough money!
+Consider donating via [streamlabs](https://streamlabs.com/donate/kuletxcore) or [ko-fi](http://ko-fi.com/kuletxcore) so the project can live, and who knows? Maybe in time, they can afford the Battle Royale template that's linked above with enough money!
 
-You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) if you want to support him monthly!
+You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) or [SubscribeStar](http://subscribestar.com/KuletXCore) if you want to support him monthly!
