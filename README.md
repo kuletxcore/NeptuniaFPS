@@ -1,4 +1,4 @@
-# Neptunia_BR
+# ![Neptunia_BR](https://trello-attachments.s3.amazonaws.com/5b750c120cf3bb7f77ba1c6a/5b890058aaf9ee71e886b90d/be9d3f8911dd4877d408685a2055913c/ConquestLogo.png) 
 A Battle Royale game based on the Neptunia Series made in UE4.
 
 ----
@@ -22,7 +22,8 @@ Thank you!
 
 # This project currently only has the "third-person blueprint template" in it. This will be the base for the game itself.
 
-## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/). [Rest](https://www.unrealengine.com/marketplace/battle-royale-template-inventory-minimap) [in](https://www.unrealengine.com/marketplace/battle-royale-project-for-dedicated-servers) [Kill](https://www.unrealengine.com/marketplace/fps-battle-royale-template).
+## PS: The creator of this repo doesn't have the money to buy the ["Battle Royale template"](https://sellfy.com/p/DG9f/), but someone pulled through!
+![Thank you!](https://cdn.discordapp.com/attachments/458560978821316630/486124957684727818/unknown.png)
 
 # The creator of this repo didn't even know about Git-LFS' storage and bandwidth being metered, and *Git-LFS is disabled until further notice.*
 ![GitLFS Disabled](https://user-images.githubusercontent.com/4536676/44709243-b79ed680-aadb-11e8-8d4d-8b09ece812c1.png)
