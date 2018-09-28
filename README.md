@@ -29,8 +29,7 @@ Trello - https://trello.com/b/H33OpNON/neptunia-br
 # WE HAVE THE  ["Battle Royale template"](https://sellfy.com/p/DG9f/), BABY!!!
 ![Thank you!](https://cdn.discordapp.com/attachments/458560978821316630/486124957684727818/unknown.png)
 
-# The creator of this repo didn't even know about Git-LFS' storage and bandwidth being metered on github, and *Git-LFS is disabled until further notice.*
-![GitLFS Disabled](https://user-images.githubusercontent.com/4536676/44709243-b79ed680-aadb-11e8-8d4d-8b09ece812c1.png)
+# Git-LFS is Back in action, but please consider subscribing so we can fund this thing!
 
 Consider donating via [streamlabs](https://streamlabs.com/donate/kuletxcore) or [ko-fi](http://ko-fi.com/kuletxcore) so the project can live, and who knows?
 
