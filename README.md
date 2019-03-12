@@ -10,7 +10,7 @@ A Battle Royale game based on the Neptunia Series made in UE4.
 3. Follow the instructions of this video: https://youtube.com/watch?v=v-DWH5JQiDo (Disable initialization of .gitattributes and .gitignore, for I already have a working one in this repo.)
 4. Don't forget to submit to "Source Control" after saving and push your changes to your remote via your chosen desktop app!
 
-(This project uses the 4.20 build.)
+(This project uses the 4.21 build.)
 
 --------
 
