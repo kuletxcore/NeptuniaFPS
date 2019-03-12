@@ -7,10 +7,11 @@ A Battle Royale game based on the Neptunia Series made in UE4.
 
 1. Get "[Git](http://git-scm.com/downloads)", "[Git-LFS](https://git-lfs.github.com)", and your GUI client of choice. ([Github Desktop](https://desktop.github.com), [GitKraken](https://www.gitkraken.com/), etc.)
 2. Clone your copy of the project to your desired directory (using the Desktop app of choice)
-3. Follow the instructions of this video: https://youtube.com/watch?v=v-DWH5JQiDo (Disable initialization of .gitattributes and .gitignore, for I already have a working one in this repo.)
+3. Follow the instructions of this video: : https//youtube.com/watch?v=v-DWH5JQiDo (Disable initialization of .gitattributes and .gitignore, for I already have a working one in this repo.) Or, you can follow instruction here : https://wiki.unrealengine.com/Unreal_Project_Git_Workflow_%28Tutorial%29
+Or do both, I guess
 4. Don't forget to submit to "Source Control" after saving and push your changes to your remote via your chosen desktop app!
 
-(This project uses the 4.21 build.)
+(This project uses the UE4 4.21 build.)(Kinda)
 
 --------
 
@@ -22,13 +23,14 @@ Thank you!
 # Useful Links
 
 Trello - https://trello.com/b/H33OpNON/neptunia-br
+Discord - https://discord.gg/ZRZzDwW
 
 --------
 
 # WE HAVE THE  ["Battle Royale template"](https://sellfy.com/p/DG9f/), BABY!!!
 ![Thank you!](https://cdn.discordapp.com/attachments/458560978821316630/486124957684727818/unknown.png)
 
-# ~~Git-LFS is Back in action, but please consider subscribing so we can fund this thing!~~ Nevermind. we're currently in Hiatus, and KuletXCore has no patrons once again, i guess...
+# ~~Git-LFS is Back in action, but please consider subscribing so we can fund this thing!~~ Nevermind, we're currently in Hiatus, and KuletXCore has no patrons once again, I guess...so um, help?
 
 Consider donating via [streamlabs](https://streamlabs.com/donate/kuletxcore) or [ko-fi](http://ko-fi.com/kuletxcore) so the project can live, and who knows?
 
