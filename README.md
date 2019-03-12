@@ -28,8 +28,8 @@ Trello - https://trello.com/b/H33OpNON/neptunia-br
 # WE HAVE THE  ["Battle Royale template"](https://sellfy.com/p/DG9f/), BABY!!!
 ![Thank you!](https://cdn.discordapp.com/attachments/458560978821316630/486124957684727818/unknown.png)
 
-# Git-LFS is Back in action, but please consider subscribing so we can fund this thing!
+# ~~Git-LFS is Back in action, but please consider subscribing so we can fund this thing!~~ Nevermind. we're currently in Hiatus, and KuletXCore has no patrons once again, i guess...
 
 Consider donating via [streamlabs](https://streamlabs.com/donate/kuletxcore) or [ko-fi](http://ko-fi.com/kuletxcore) so the project can live, and who knows?
 
-You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) or [SubscribeStar](http://subscribestar.com/KuletXCore) if you want to support him monthly!
+You can also subscribe to the creator's [Patreon](http://patreon.com/kuletxcore) if you want to support him monthly!
