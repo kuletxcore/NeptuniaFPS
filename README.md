@@ -23,7 +23,7 @@ Thank you!
 # Useful Links
 
 Trello - https://trello.com/b/H33OpNON/neptunia-br
-Discord - https://discord.gg/ZRZzDwW
+Discord - https://discordapp.com/invite/ZjjJst
 
 --------
 
