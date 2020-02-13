@@ -13,6 +13,7 @@ Just use normal git and refer to `workflow.md`.
 # Useful Links
 
 Trello - https://trello.com/b/H33OpNON/neptunia-br
+
 Discord - https://discordapp.com/invite/ZjjJst
 
 --------
