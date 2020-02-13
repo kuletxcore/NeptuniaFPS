@@ -22,9 +22,9 @@ Discord - https://discordapp.com/invite/ZjjJst
 
 --------
 
-# We're restarting from the ground up in UE4.24. 
+## We're restarting from the ground up in UE4.24. 
 
-# Nevermind, we're currently in Hiatus, and KuletXCore has no patrons once again, I guess...so um, help?
+# Plus, we're currently in Hiatus, and KuletXCore has no patrons once again, I guess...so um, help?
 
 Consider donating via [streamlabs](https://streamlabs.com/donate/kuletxcore) or [ko-fi](http://ko-fi.com/kuletxcore) so the project can live, and who knows?
 
