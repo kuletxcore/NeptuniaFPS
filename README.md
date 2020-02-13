@@ -22,7 +22,7 @@ Discord - https://discordapp.com/invite/ZjjJst
 
 --------
 
-# WE're restarting from the ground up in UE4.24. 
+# We're restarting from the ground up in UE4.24. 
 
 # Nevermind, we're currently in Hiatus, and KuletXCore has no patrons once again, I guess...so um, help?
 
