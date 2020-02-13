@@ -6,7 +6,7 @@ Modes will be Battle Royale, Team Deathmatch and FFA.
 
 # Instructions
 
-Just use normal git
+Just use normal git and refer to `workflow.md`.
 
 --------
 
